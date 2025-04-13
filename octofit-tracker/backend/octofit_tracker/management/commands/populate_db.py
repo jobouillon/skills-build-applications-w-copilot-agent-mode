@@ -4,7 +4,7 @@ from bson import ObjectId
 from datetime import timedelta
 
 class Command(BaseCommand):
-    help = 'Populate and verify the database with test data'
+    help = 'Populate and verify the database with test data for the Octofit Tracker app'
 
     def handle(self, *args, **kwargs):
         # Create Users
