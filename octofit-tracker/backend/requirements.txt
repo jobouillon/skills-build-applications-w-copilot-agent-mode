@@ -1,4 +1,4 @@
 # Backend dependencies
-Django>=4.1,<5.0
+Django=4.1
 djangorestframework>=3.12,<4.0
 pymongo>=4.0,<5.0
